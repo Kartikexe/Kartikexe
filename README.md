@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Loopback, Java, C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kartikexe](https://github.com/Kartikexe)
+- 👨‍💻 All of my projects are available at [https://github.com/Kartikexe?tab=repositories](https://github.com/Kartikexe?tab=repositories)
 
 - 💬 Ask me about **Java & C++**
 
